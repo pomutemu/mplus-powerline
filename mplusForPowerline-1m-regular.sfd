@@ -1,0 +1,301 @@
+SplineFontDB: 3.0
+FontName: mplusForPowerline-1m-regular
+FullName: M+ 1m regular for Powerline
+FamilyName: M+ 1m for Powerline
+Weight: Book
+Copyright: Copyright(c) 2008 M+ FONTS PROJECT
+Version: 1.018
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 861
+Descent: 139
+InvalidEm: 0
+sfntRevision: 0x0001049b
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 994 149597024 10985033]
+FSType: 0
+OS2Version: 1
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1226922713
+ModificationTime: 1365904637
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 90
+VLineGap: 0
+Panose: 2 11 5 9 2 2 3 2 2 7
+OS2TypoAscent: 861
+OS2TypoAOffset: 0
+OS2TypoDescent: -139
+OS2TypoDOffset: 0
+OS2TypoLinegap: 90
+OS2WinAscent: 855
+OS2WinAOffset: 0
+OS2WinDescent: 230
+OS2WinDOffset: 0
+HheadAscent: 855
+HheadAOffset: 0
+HheadDescent: -230
+HheadDOffset: 0
+OS2SubXSize: 650
+OS2SubYSize: 700
+OS2SubXOff: 0
+OS2SubYOff: 140
+OS2SupXSize: 650
+OS2SupYSize: 700
+OS2SupXOff: 0
+OS2SupYOff: 480
+OS2StrikeYSize: 49
+OS2StrikeYPos: 258
+OS2CapHeight: 0
+OS2XHeight: 0
+OS2FamilyClass: 2057
+OS2Vendor: 'M+  '
+OS2CodePages: 00120000.00000000
+OS2UnicodeRanges: 80000003.08070120.00000012.00000000
+Lookup: 1 0 0 "'vert' Vertical Alternates (obs) in Hiragana & Katakana lookup 0" { "'vert' Vertical Alternates (obs) in Hiragana & Katakana lookup 0 subtable"  } ['vert' ('kana' <'JAN ' 'dflt' > ) ]
+DEI: 91125
+TtTable: prep
+PUSHW_2
+ 511
+ 0
+SCANTYPE
+SCANCTRL
+EndTTInstrs
+ShortTable: cvt  2
+  33
+  633
+EndShort
+ShortTable: maxp 16
+  1
+  0
+  1693
+  160
+  14
+  0
+  0
+  2
+  0
+  0
+  0
+  0
+  4
+  46
+  0
+  0
+EndShort
+LangName: 1033 "" "" "regular" "FontForge 2.0 : M+- 1m regular : 17-11-2008" "" "" "" "" "" "" "" "http://mplus-fonts.sourceforge.jp" "" "" "" "" "M+- 1m for Powerline" "" "M+- 1m regular for Powerline"
+GaspTable: 1 65535 2 0
+Encoding: UnicodeBmp
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -24
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 29 9
+BeginChars: 65587 8
+
+StartChar: uniE0A0
+Encoding: 57504 57504 1
+Width: 500
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+199 -211 m 1,0,-1
+ 70 -211 l 1,1,-1
+ 70 6 l 2,2,3
+ 70 86 70 86 107 137 c 0,4,5
+ 132 173 132 173 186 206 c 2,6,-1
+ 257 251 l 2,7,8
+ 299 278 299 278 317 313.5 c 128,-1,9
+ 335 349 335 349 335 407 c 2,10,-1
+ 335 555 l 1,11,-1
+ 237 555 l 1,12,-1
+ 374 709 l 1,13,-1
+ 510 555 l 1,14,-1
+ 412 555 l 1,15,-1
+ 412 382 l 2,16,17
+ 412 296 412 296 387 249.5 c 128,-1,18
+ 362 203 362 203 312 172 c 2,19,-1
+ 277 150 l 2,20,21
+ 234 123 234 123 218 94 c 0,22,23
+ 199 62 199 62 199 6 c 2,24,-1
+ 199 -211 l 1,0,-1
+199 322 m 1,25,-1
+ 70 242 l 1,26,-1
+ 70 830 l 1,27,-1
+ 199 830 l 1,28,-1
+ 199 322 l 1,25,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE0A1
+Encoding: 57505 57505 2
+Width: 500
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+327 386 m 1,0,-1
+ 327 327 l 1,1,-1
+ 91 327 l 1,2,-1
+ 91 731 l 1,3,-1
+ 163 731 l 1,4,-1
+ 163 386 l 1,5,-1
+ 327 386 l 1,0,-1
+330 290 m 1,6,-1
+ 404 290 l 1,7,-1
+ 404 -114 l 1,8,-1
+ 326 -114 l 1,9,-1
+ 212 149 l 1,10,-1
+ 220 -27 l 1,11,-1
+ 220 -114 l 1,12,-1
+ 147 -114 l 1,13,-1
+ 147 290 l 1,14,-1
+ 224 290 l 1,15,-1
+ 340 26 l 1,16,-1
+ 330 219 l 1,17,-1
+ 330 290 l 1,6,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE0A2
+Encoding: 57506 57506 3
+Width: 500
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+124 -47 m 2,0,1
+ 58 -47 58 -47 58 16 c 2,2,-1
+ 58 326 l 2,3,4
+ 58 394 58 394 114 394 c 1,5,-1
+ 114 532 l 2,6,7
+ 114 594 114 594 154 634 c 0,8,9
+ 192 673 192 673 248 673 c 256,10,11
+ 304 673 304 673 341 634 c 0,12,13
+ 380 593 380 593 381 532 c 2,14,-1
+ 381 394 l 1,15,16
+ 438 394 438 394 437 326 c 2,17,-1
+ 437 16 l 2,18,19
+ 437 -47 437 -47 371 -47 c 2,20,-1
+ 124 -47 l 2,0,1
+248 615 m 256,21,22
+ 217 615 217 615 197.5 592.5 c 128,-1,23
+ 178 570 178 570 178 532 c 2,24,-1
+ 178 394 l 1,25,-1
+ 317 394 l 1,26,-1
+ 317 532 l 2,27,28
+ 317 570 317 570 298 592.5 c 128,-1,29
+ 279 615 279 615 248 615 c 256,21,22
+274 59 m 1,30,-1
+ 274 204 l 1,31,32
+ 306 220 306 220 305 254 c 0,33,34
+ 305 277 305 277 288 293.5 c 128,-1,35
+ 271 310 271 310 248 310 c 0,36,37
+ 224 310 224 310 207 293.5 c 128,-1,38
+ 190 277 190 277 190 254 c 0,39,40
+ 190 220 190 220 221 204 c 1,41,-1
+ 221 59 l 1,42,-1
+ 274 59 l 1,30,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE0B0
+Encoding: 57520 57520 4
+Width: 500
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+0 830 m 1,0,-1
+ 495 307 l 1,1,-1
+ 0 -215 l 1,2,-1
+ 0 830 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE0B1
+Encoding: 57521 57521 5
+Width: 500
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+-27 767 m 1,0,-1
+ 18 810 l 1,1,-1
+ 495 307 l 1,2,-1
+ 18 -196 l 1,3,-1
+ -27 -153 l 1,4,-1
+ 409 307 l 1,5,-1
+ -27 767 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE0B2
+Encoding: 57522 57522 6
+Width: 500
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+495 -215 m 1,0,-1
+ 0 307 l 1,1,-1
+ 495 830 l 1,2,-1
+ 495 -215 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE0B3
+Encoding: 57523 57523 7
+Width: 500
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+86 307 m 1,0,-1
+ 522 -153 l 1,1,-1
+ 477 -196 l 1,2,-1
+ 0 307 l 1,3,-1
+ 477 810 l 1,4,-1
+ 522 767 l 1,5,-1
+ 86 307 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: block
+Encoding: 9608 9608 7
+Width: 1060
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 1950 m 1
+ 1060 1950 l 1
+ 1060 -375 l 1
+ 0 -375 l 1
+ 0 1950 l 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont

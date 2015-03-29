@@ -1,0 +1,1029 @@
+SplineFontDB: 3.0
+FontName: mplusForPowerline-1mn-light
+FullName: M+ 1mn light for Powerline
+FamilyName: M+ 1mn light for Powerline
+Weight: Extra-Light
+Copyright: Copyright(c) 2014 M+ FONTS PROJECT
+Version: 1.059
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 860
+Descent: 140
+InvalidEm: 0
+sfntRevision: 0x00010f1a
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+HasVMetrics: 1
+XUID: [1021 994 149597024 10369422]
+FSType: 0
+OS2Version: 1
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1314095750
+ModificationTime: 1423310639
+PfmFamily: 17
+TTFWeight: 200
+TTFWidth: 5
+LineGap: 90
+VLineGap: 90
+Panose: 2 11 4 9 2 2 3 2 2 7
+OS2TypoAscent: 860
+OS2TypoAOffset: 0
+OS2TypoDescent: -140
+OS2TypoDOffset: 0
+OS2TypoLinegap: 90
+OS2WinAscent: 1075
+OS2WinAOffset: 0
+OS2WinDescent: 320
+OS2WinDOffset: 0
+HheadAscent: 1075
+HheadAOffset: 0
+HheadDescent: -320
+HheadDOffset: 0
+OS2SubXSize: 650
+OS2SubYSize: 700
+OS2SubXOff: 0
+OS2SubYOff: 140
+OS2SupXSize: 650
+OS2SupYSize: 700
+OS2SupXOff: 0
+OS2SupYOff: 480
+OS2StrikeYSize: 49
+OS2StrikeYPos: 258
+OS2CapHeight: 0
+OS2XHeight: 0
+OS2FamilyClass: 2057
+OS2Vendor: 'M+  '
+OS2CodePages: 4012019f.dfd70000
+OS2UnicodeRanges: e00002ff.6a47fdeb.00000012.00000000
+Lookup: 4 0 1 "'liga' Standard Ligatures in Hiragana & Katakana lookup 0" { "'liga' Standard Ligatures in Hiragana & Katakana lookup 0 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'kana' <'JAN ' 'dflt' > ) 'liga' ('DFLT' <'dflt' > 'kana' <'JAN ' 'dflt' > ) ]
+Lookup: 1 0 0 "'vert' Vertical Alternates (obs) lookup 1" { "'vert' Vertical Alternates (obs) lookup 1 subtable"  } ['vert' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'kana' <'JAN ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'jp04' JIS2004 Forms lookup 2" { "'jp04' JIS2004 Forms lookup 2 subtable"  } ['jp04' ('cyrl' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'kana' <'JAN ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition lookup 3" { "'ccmp' Glyph Composition/Decomposition lookup 3 subtable"  } ['ccmp' ('hani' <'dflt' > 'kana' <'JAN ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition lookup 4" { "'ccmp' Glyph Composition/Decomposition lookup 4 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 5" { "Single Substitution lookup 5 subtable"  } []
+Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition lookup 6" { "'ccmp' Glyph Composition/Decomposition lookup 6 contextual 0"  "'ccmp' Glyph Composition/Decomposition lookup 6 contextual 1"  "'ccmp' Glyph Composition/Decomposition lookup 6 contextual 2"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+DEI: 91125
+ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 6 contextual 2" 0 0 0 1
+ 1 0 3
+  Coverage: 35 i j uni0249 uni03F3 uni0456 uni0458
+  FCoverage: 316 uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0321 uni0322 dotbelowcomb uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0345 uni0347 uni0348 uni0349 uni034D uni034E uni0353
+  FCoverage: 316 uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0321 uni0322 dotbelowcomb uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0345 uni0347 uni0348 uni0349 uni034D uni034E uni0353
+  FCoverage: 307 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni033F uni0340 uni0341 uni0342 uni0343 uni0344 uni0346 uni0351 uni0352 uni0357 uni0483 uni0484 uni0485 uni0486
+ 1
+  SeqLookup: 0 "Single Substitution lookup 5"
+EndFPST
+ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 6 contextual 1" 0 0 0 1
+ 1 0 2
+  Coverage: 35 i j uni0249 uni03F3 uni0456 uni0458
+  FCoverage: 316 uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0321 uni0322 dotbelowcomb uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0345 uni0347 uni0348 uni0349 uni034D uni034E uni0353
+  FCoverage: 307 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni033F uni0340 uni0341 uni0342 uni0343 uni0344 uni0346 uni0351 uni0352 uni0357 uni0483 uni0484 uni0485 uni0486
+ 1
+  SeqLookup: 0 "Single Substitution lookup 5"
+EndFPST
+ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 6 contextual 0" 0 0 0 1
+ 1 0 1
+  Coverage: 35 i j uni0249 uni03F3 uni0456 uni0458
+  FCoverage: 307 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni033F uni0340 uni0341 uni0342 uni0343 uni0344 uni0346 uni0351 uni0352 uni0357 uni0483 uni0484 uni0485 uni0486
+ 1
+  SeqLookup: 0 "Single Substitution lookup 5"
+EndFPST
+TtTable: prep
+PUSHW_1
+ 511
+SCANCTRL
+PUSHB_1
+ 1
+SCANTYPE
+SVTCA[y-axis]
+MPPEM
+PUSHB_1
+ 8
+LT
+IF
+PUSHB_2
+ 1
+ 1
+INSTCTRL
+EIF
+PUSHB_2
+ 70
+ 6
+CALL
+IF
+POP
+PUSHB_1
+ 16
+EIF
+MPPEM
+PUSHB_1
+ 20
+GT
+IF
+POP
+PUSHB_1
+ 128
+EIF
+SCVTCI
+PUSHB_1
+ 6
+CALL
+NOT
+IF
+EIF
+PUSHB_1
+ 20
+CALL
+EndTTInstrs
+TtTable: fpgm
+PUSHB_1
+ 0
+FDEF
+PUSHB_1
+ 0
+SZP0
+MPPEM
+PUSHB_1
+ 42
+LT
+IF
+PUSHB_1
+ 74
+SROUND
+EIF
+PUSHB_1
+ 0
+SWAP
+MIAP[rnd]
+RTG
+PUSHB_1
+ 6
+CALL
+IF
+RTDG
+EIF
+MPPEM
+PUSHB_1
+ 42
+LT
+IF
+RDTG
+EIF
+DUP
+MDRP[rp0,rnd,grey]
+PUSHB_1
+ 1
+SZP0
+MDAP[no-rnd]
+RTG
+ENDF
+PUSHB_1
+ 1
+FDEF
+DUP
+MDRP[rp0,min,white]
+PUSHB_1
+ 12
+CALL
+ENDF
+PUSHB_1
+ 2
+FDEF
+MPPEM
+GT
+IF
+RCVT
+SWAP
+EIF
+POP
+ENDF
+PUSHB_1
+ 3
+FDEF
+ROUND[Black]
+RTG
+DUP
+PUSHB_1
+ 64
+LT
+IF
+POP
+PUSHB_1
+ 64
+EIF
+ENDF
+PUSHB_1
+ 4
+FDEF
+PUSHB_1
+ 6
+CALL
+IF
+POP
+SWAP
+POP
+ROFF
+IF
+MDRP[rp0,min,rnd,black]
+ELSE
+MDRP[min,rnd,black]
+EIF
+ELSE
+MPPEM
+GT
+IF
+IF
+MIRP[rp0,min,rnd,black]
+ELSE
+MIRP[min,rnd,black]
+EIF
+ELSE
+SWAP
+POP
+PUSHB_1
+ 5
+CALL
+IF
+PUSHB_1
+ 70
+SROUND
+EIF
+IF
+MDRP[rp0,min,rnd,black]
+ELSE
+MDRP[min,rnd,black]
+EIF
+EIF
+EIF
+RTG
+ENDF
+PUSHB_1
+ 5
+FDEF
+GFV
+NOT
+AND
+ENDF
+PUSHB_1
+ 6
+FDEF
+PUSHB_2
+ 34
+ 1
+GETINFO
+LT
+IF
+PUSHB_1
+ 32
+GETINFO
+NOT
+NOT
+ELSE
+PUSHB_1
+ 0
+EIF
+ENDF
+PUSHB_1
+ 7
+FDEF
+PUSHB_2
+ 36
+ 1
+GETINFO
+LT
+IF
+PUSHB_1
+ 64
+GETINFO
+NOT
+NOT
+ELSE
+PUSHB_1
+ 0
+EIF
+ENDF
+PUSHB_1
+ 8
+FDEF
+SRP2
+SRP1
+DUP
+IP
+MDAP[rnd]
+ENDF
+PUSHB_1
+ 9
+FDEF
+DUP
+RDTG
+PUSHB_1
+ 6
+CALL
+IF
+MDRP[rnd,grey]
+ELSE
+MDRP[min,rnd,black]
+EIF
+DUP
+PUSHB_1
+ 3
+CINDEX
+MD[grid]
+SWAP
+DUP
+PUSHB_1
+ 4
+MINDEX
+MD[orig]
+PUSHB_1
+ 0
+LT
+IF
+ROLL
+NEG
+ROLL
+SUB
+DUP
+PUSHB_1
+ 0
+LT
+IF
+SHPIX
+ELSE
+POP
+POP
+EIF
+ELSE
+ROLL
+ROLL
+SUB
+DUP
+PUSHB_1
+ 0
+GT
+IF
+SHPIX
+ELSE
+POP
+POP
+EIF
+EIF
+RTG
+ENDF
+PUSHB_1
+ 10
+FDEF
+PUSHB_1
+ 6
+CALL
+IF
+POP
+SRP0
+ELSE
+SRP0
+POP
+EIF
+ENDF
+PUSHB_1
+ 11
+FDEF
+DUP
+MDRP[rp0,white]
+PUSHB_1
+ 12
+CALL
+ENDF
+PUSHB_1
+ 12
+FDEF
+DUP
+MDAP[rnd]
+PUSHB_1
+ 7
+CALL
+NOT
+IF
+DUP
+DUP
+GC[orig]
+SWAP
+GC[cur]
+SUB
+ROUND[White]
+DUP
+IF
+DUP
+ABS
+DIV
+SHPIX
+ELSE
+POP
+POP
+EIF
+ELSE
+POP
+EIF
+ENDF
+PUSHB_1
+ 13
+FDEF
+SRP2
+SRP1
+DUP
+DUP
+IP
+MDAP[rnd]
+DUP
+ROLL
+DUP
+GC[orig]
+ROLL
+GC[cur]
+SUB
+SWAP
+ROLL
+DUP
+ROLL
+SWAP
+MD[orig]
+PUSHB_1
+ 0
+LT
+IF
+SWAP
+PUSHB_1
+ 0
+GT
+IF
+PUSHB_1
+ 64
+SHPIX
+ELSE
+POP
+EIF
+ELSE
+SWAP
+PUSHB_1
+ 0
+LT
+IF
+PUSHB_1
+ 64
+NEG
+SHPIX
+ELSE
+POP
+EIF
+EIF
+ENDF
+PUSHB_1
+ 14
+FDEF
+PUSHB_1
+ 6
+CALL
+IF
+RTDG
+MDRP[rp0,rnd,white]
+RTG
+POP
+POP
+ELSE
+DUP
+MDRP[rp0,rnd,white]
+ROLL
+MPPEM
+GT
+IF
+DUP
+ROLL
+SWAP
+MD[grid]
+DUP
+PUSHB_1
+ 0
+NEQ
+IF
+SHPIX
+ELSE
+POP
+POP
+EIF
+ELSE
+POP
+POP
+EIF
+EIF
+ENDF
+PUSHB_1
+ 15
+FDEF
+SWAP
+DUP
+MDRP[rp0,rnd,white]
+DUP
+MDAP[rnd]
+PUSHB_1
+ 7
+CALL
+NOT
+IF
+SWAP
+DUP
+IF
+MPPEM
+GTEQ
+ELSE
+POP
+PUSHB_1
+ 1
+EIF
+IF
+ROLL
+PUSHB_1
+ 4
+MINDEX
+MD[grid]
+SWAP
+ROLL
+SWAP
+DUP
+ROLL
+MD[grid]
+ROLL
+SWAP
+SUB
+SHPIX
+ELSE
+POP
+POP
+POP
+POP
+EIF
+ELSE
+POP
+POP
+POP
+POP
+POP
+EIF
+ENDF
+PUSHB_1
+ 16
+FDEF
+DUP
+MDRP[rp0,min,white]
+PUSHB_1
+ 18
+CALL
+ENDF
+PUSHB_1
+ 17
+FDEF
+DUP
+MDRP[rp0,white]
+PUSHB_1
+ 18
+CALL
+ENDF
+PUSHB_1
+ 18
+FDEF
+DUP
+MDAP[rnd]
+PUSHB_1
+ 7
+CALL
+NOT
+IF
+DUP
+DUP
+GC[orig]
+SWAP
+GC[cur]
+SUB
+ROUND[White]
+ROLL
+DUP
+GC[orig]
+SWAP
+GC[cur]
+SWAP
+SUB
+ROUND[White]
+ADD
+DUP
+IF
+DUP
+ABS
+DIV
+SHPIX
+ELSE
+POP
+POP
+EIF
+ELSE
+POP
+POP
+EIF
+ENDF
+PUSHB_1
+ 19
+FDEF
+DUP
+ROLL
+DUP
+ROLL
+SDPVTL[orthog]
+DUP
+PUSHB_1
+ 3
+CINDEX
+MD[orig]
+ABS
+SWAP
+ROLL
+SPVTL[orthog]
+PUSHB_1
+ 32
+LT
+IF
+ALIGNRP
+ELSE
+MDRP[grey]
+EIF
+ENDF
+PUSHB_1
+ 20
+FDEF
+PUSHB_4
+ 0
+ 64
+ 1
+ 64
+WS
+WS
+SVTCA[x-axis]
+MPPEM
+PUSHW_1
+ 4096
+MUL
+SVTCA[y-axis]
+MPPEM
+PUSHW_1
+ 4096
+MUL
+DUP
+ROLL
+DUP
+ROLL
+NEQ
+IF
+DUP
+ROLL
+DUP
+ROLL
+GT
+IF
+SWAP
+DIV
+DUP
+PUSHB_1
+ 0
+SWAP
+WS
+ELSE
+DIV
+DUP
+PUSHB_1
+ 1
+SWAP
+WS
+EIF
+DUP
+PUSHB_1
+ 64
+GT
+IF
+PUSHB_3
+ 0
+ 32
+ 0
+RS
+MUL
+WS
+PUSHB_3
+ 1
+ 32
+ 1
+RS
+MUL
+WS
+PUSHB_1
+ 32
+MUL
+PUSHB_1
+ 25
+NEG
+JMPR
+POP
+EIF
+ELSE
+POP
+POP
+EIF
+ENDF
+PUSHB_1
+ 21
+FDEF
+PUSHB_1
+ 1
+RS
+MUL
+SWAP
+PUSHB_1
+ 0
+RS
+MUL
+SWAP
+ENDF
+EndTTInstrs
+ShortTable: cvt  6
+  -220
+  0
+  520
+  730
+  33
+  633
+EndShort
+ShortTable: maxp 16
+  1
+  0
+  7845
+  194
+  21
+  107
+  10
+  2
+  1
+  2
+  22
+  0
+  256
+  46
+  1
+  1
+EndShort
+LangName: 1033 "" "" "Regular" "FontForge 2.0 : M+- 1mn light : 26-11-2014" "" "Version 1.059" "" "" "" "" "" "http://mplus-fonts.sourceforge.jp" "" "" "" "" "M+- 1mn light for Powerline" "light" "M+- 1mn light for Powerline"
+LangName: 1041 "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "M+- 1mn" "light"
+GaspTable: 1 65535 2 0
+Encoding: UnicodeFull
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -24
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 29 9
+Grid
+-1000 294 m 0
+ 2000 294 l 1024
+  Named: "mirroe"
+EndSplineSet
+BeginChars: 1114442 9
+
+StartChar: space
+Encoding: 32 32 0
+Width: 500
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+Validated: 1
+EndChar
+
+StartChar: block
+Encoding: 9608 9608 1
+Width: 500
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+0 -140 m 1,0,-1
+ 0 860 l 1,1,-1
+ 500 860 l 1,2,-1
+ 500 -140 l 1,3,-1
+ 0 -140 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE0A0
+Encoding: 57504 57504 2
+Width: 500
+VWidth: 412
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+199 -212 m 1,0,-1
+ 70 -212 l 1,1,-1
+ 70 5 l 2,2,3
+ 70 85 70 85 107 136 c 0,4,5
+ 132 172 132 172 186 205 c 2,6,-1
+ 257 250 l 2,7,8
+ 299 277 299 277 317 312.5 c 128,-1,9
+ 335 348 335 348 335 406 c 2,10,-1
+ 335 554 l 1,11,-1
+ 237 554 l 1,12,-1
+ 374 708 l 1,13,-1
+ 510 554 l 1,14,-1
+ 412 554 l 1,15,-1
+ 412 381 l 2,16,17
+ 412 295 412 295 387 248.5 c 128,-1,18
+ 362 202 362 202 312 171 c 2,19,-1
+ 277 149 l 2,20,21
+ 234 122 234 122 218 93 c 0,22,23
+ 199 61 199 61 199 5 c 2,24,-1
+ 199 -212 l 1,0,-1
+199 321 m 1,25,-1
+ 70 241 l 1,26,-1
+ 70 829 l 1,27,-1
+ 199 829 l 1,28,-1
+ 199 321 l 1,25,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE0A1
+Encoding: 57505 57505 3
+Width: 500
+VWidth: 412
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+327 385 m 1,0,-1
+ 327 326 l 1,1,-1
+ 91 326 l 1,2,-1
+ 91 730 l 1,3,-1
+ 163 730 l 1,4,-1
+ 163 385 l 1,5,-1
+ 327 385 l 1,0,-1
+330 289 m 1,6,-1
+ 404 289 l 1,7,-1
+ 404 -115 l 1,8,-1
+ 326 -115 l 1,9,-1
+ 212 148 l 1,10,-1
+ 220 -28 l 1,11,-1
+ 220 -115 l 1,12,-1
+ 147 -115 l 1,13,-1
+ 147 289 l 1,14,-1
+ 224 289 l 1,15,-1
+ 340 25 l 1,16,-1
+ 330 218 l 1,17,-1
+ 330 289 l 1,6,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE0A2
+Encoding: 57506 57506 4
+Width: 500
+VWidth: 412
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+124 -48 m 2,0,1
+ 58 -48 58 -48 58 15 c 2,2,-1
+ 58 325 l 2,3,4
+ 58 393 58 393 114 393 c 1,5,-1
+ 114 531 l 2,6,7
+ 114 593 114 593 154 633 c 0,8,9
+ 192 672 192 672 248 672 c 128,-1,10
+ 304 672 304 672 341 633 c 0,11,12
+ 380 592 380 592 381 531 c 2,13,-1
+ 381 393 l 1,14,15
+ 438 393 438 393 437 325 c 2,16,-1
+ 437 15 l 2,17,18
+ 437 -48 437 -48 371 -48 c 2,19,-1
+ 124 -48 l 2,0,1
+248 614 m 128,-1,21
+ 217 614 217 614 197.5 591.5 c 128,-1,22
+ 178 569 178 569 178 531 c 2,23,-1
+ 178 393 l 1,24,-1
+ 317 393 l 1,25,-1
+ 317 531 l 2,26,27
+ 317 569 317 569 298 591.5 c 128,-1,20
+ 279 614 279 614 248 614 c 128,-1,21
+274 58 m 1,28,-1
+ 274 203 l 1,29,30
+ 306 219 306 219 305 253 c 0,31,32
+ 305 276 305 276 288 292.5 c 128,-1,33
+ 271 309 271 309 248 309 c 0,34,35
+ 224 309 224 309 207 292.5 c 128,-1,36
+ 190 276 190 276 190 253 c 0,37,38
+ 190 219 190 219 221 203 c 1,39,-1
+ 221 58 l 1,40,-1
+ 274 58 l 1,28,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE0B0
+Encoding: 57520 57520 5
+Width: 500
+VWidth: 412
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+0 1014 m 257,0,-1
+ 495 306 l 1,1,-1
+ 0 -396 l 1,2,-1
+ 0 1014 l 257,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE0B1
+Encoding: 57521 57521 6
+Width: 500
+VWidth: 412
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+-54 959 m 5,0,-1
+ 36 1014 l 5,1,-1
+ 495 306 l 5,2,-1
+ 36 -402 l 5,3,-1
+ -54 -347 l 5,4,-1
+ 363 306 l 5,5,-1
+ -54 959 l 5,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE0B2
+Encoding: 57522 57522 7
+Width: 500
+VWidth: 412
+GlyphClass: 2
+InSpiro: 1
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+495 -402 m 1,0,-1
+ 495 1014 l 1,1,-1
+ 0 306 l 1,2,-1
+ 495 -402 l 1,0,-1
+  Spiro
+    495 -402 v
+    495 1014 v
+    0 306 v
+    0 0 z
+  EndSpiro
+990 -472 m 1025,3,-1
+  Spiro
+    990 -472 {
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar
+
+StartChar: uniE0B3
+Encoding: 57523 57523 8
+Width: 500
+VWidth: 412
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+549 -347 m 1,0,-1
+ 459 -402 l 1,1,-1
+ 0 306 l 1,2,-1
+ 459 1014 l 1,3,-1
+ 549 959 l 1,4,-1
+ 132 306 l 1,5,-1
+ 549 -347 l 1,0,-1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
